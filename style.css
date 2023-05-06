@@ -1,0 +1,44 @@
+*{
+    background-color: papayawhip;
+}
+.head{
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-weight: 100;
+    font-size: 50px;
+    text-align: center;
+    text-decoration: underline;
+}
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 600px;
+    width: auto;
+    border-radius: 10px;
+}
+.description{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: oblique;
+    font-size: 30px;
+    color: brown;
+}
+.links{
+    font-size: 20px;
+    color: green;
+}
+.bananahead{
+    text-align: center;
+    text-decoration: underline;
+}
+.bananaimg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+}
+.navs{
+    /* background-color: black; */
+    color: black;
+    font-size: large;
+    padding-right: 1%;
+}
